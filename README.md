@@ -36,10 +36,15 @@
 ---
 
 ### 📊 Real-Time Matrix
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaybankar007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaybankar007&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaybankar007&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaybankar007&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshaybankar007/akshaybankar007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
 
 <div align="center">
   <!-- Dynamic 3D Contribution Snake (Requires Action setup below) -->
