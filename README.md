@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Akshay Bankar 👋
 
-<!--
-**akshaybankar007/akshaybankar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer & Full-Stack Developer
+I am a Computer Science & Engineering graduate focused on building scalable web applications and solving complex algorithmic problems. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages & DSA:** Java, Data Structures & Algorithms, JavaScript
+- **Frontend:** HTML5, CSS3, Tailwind CSS (Upcoming)
+- **Backend & Database:** MERN Stack (MongoDB, Express.js, React, Node.js - In Progress), TypeScript (Upcoming)
+
+---
+
+### 💼 Professional Experience
+- **Full Stack Web Development Intern** | Anishree Technologies *(May 2025 - June 2025)*
+- **Computer Networking & Web Development Intern** | Supersys Services *(Jan 2024 - Feb 2024)*
+
+---
+
+### 🎓 Education
+- **B.Tech in Computer Science and Engineering** | Gurunanak Institute of Engineering and Technology *(2022 - 2026)* | CGPA: 7.70
+
+---
+
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/akshay--bankar)
+- [GitHub](https://github.com/akshaybankar007)
+- **Email:** akshaybankar076@gmail.com
